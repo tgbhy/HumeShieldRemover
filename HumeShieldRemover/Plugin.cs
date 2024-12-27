@@ -1,6 +1,6 @@
 ﻿namespace HumeShieldRemover
 {
-    public class Class1
+    public class Plugin
     {
 
     }
